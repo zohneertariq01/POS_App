@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872979470489",
+    "project_id": "pos-app-aa627",
+    "storage_bucket": "pos-app-aa627.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872979470489:android:e15021e27a0aa79fb64008",
+        "android_client_info": {
+          "package_name": "com.Devmaker.pos_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeUiEH73Io-sYKEGEXf0EFQ5Z7acByqmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
